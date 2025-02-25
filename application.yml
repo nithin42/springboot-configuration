@@ -1,0 +1,3 @@
+user-service:
+  instance:
+    name: USER-SERVICE
